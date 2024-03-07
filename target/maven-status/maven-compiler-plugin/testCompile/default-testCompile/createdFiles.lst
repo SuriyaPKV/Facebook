@@ -1,0 +1,8 @@
+com\Facebook\FacebookLogin.class
+com\Facebook\runner\package-info.class
+com\Facebook\runner\TestRunner.class
+com\Facebook\Hooks.class
+com\Facebook\BaseClassFunctions\BaseClass.class
+com\Facebook\Locators\FacebookLoginLocators.class
+com\Facebook\Locators\NewAccountLocators.class
+com\Facebook\NewAccount.class

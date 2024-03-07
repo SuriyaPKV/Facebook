@@ -11,7 +11,7 @@ import io.cucumber.junit.CucumberOptions;
 		features = ".\\src\\test\\resources",
 		glue = "com.Facebook",
 		tags = "@createnewaccount",
-		//plugin = {"html:target/index.html","json:target/reports.json"},
+		plugin = {"html:target/index.html","json:target/reports.json"},
 		dryRun = false,
 		monochrome = true
 		)
